@@ -1,6 +1,6 @@
 # goldeye
 
-GoldenEye adalah aplikasi python untuk TUJUAN PENGUJIAN SECURITY HANYA!
+Goldeye adalah aplikasi python untuk TUJUAN PENGUJIAN KEAMANAN HANYA!
 
 GoldenEye adalah Alat Uji HTTP DoS.
 
